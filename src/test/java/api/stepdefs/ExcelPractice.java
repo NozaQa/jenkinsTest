@@ -12,6 +12,9 @@ import org.junit.Test;
 import java.io.*;
 
 public class ExcelPractice {
+    public static void main(String[] args) {
+        System.out.println("Jamil is the best");
+    }
 
 
     @Test
